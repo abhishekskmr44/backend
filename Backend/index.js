@@ -32,6 +32,3 @@ app.listen(PORT, async()=>{
     console.log(`Server started at port ${PORT}`);
 })
 
-
-// deployed link: https://intense-depths-45535.herokuapp.com/
-
